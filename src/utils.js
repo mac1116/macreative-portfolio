@@ -1,0 +1,4 @@
+export function imageUrl(path, width = 900) {
+ if (path.endsWith('.svg')) return path;
+ return `/.netlify/images?url=${encodeURIComponent(path)}&w=${width}&fm=webp&q=85`;
+}
