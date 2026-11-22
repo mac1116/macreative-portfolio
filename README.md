@@ -1,4 +1,4 @@
-# MACreative.
+# MACreatives.
 
 A responsive cinematic creative portfolio for Mheil Andrei Cenita, built with React, Vite, Tailwind CSS, Framer Motion, and Lucide icons. Netlify Forms handles inquiries, and Netlify Image CDN delivers responsive WebP imagery. No custom backend or database is required.
 

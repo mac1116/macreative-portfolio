@@ -1,6 +1,6 @@
 # Project guide
 
-MACreative. is a client-rendered React/Vite portfolio. Tailwind CSS v4 is integrated through the Vite plugin; the primary visual system lives in src/styles.css. Framer Motion handles restrained reveals and respects reduced-motion preferences through MotionConfig. Lucide supplies icons.
+MACreatives. is a client-rendered React/Vite portfolio. Tailwind CSS v4 is integrated through the Vite plugin; the primary visual system lives in src/styles.css. Framer Motion handles restrained reveals and respects reduced-motion preferences through MotionConfig. Lucide supplies icons.
 
 ## Architecture
 
