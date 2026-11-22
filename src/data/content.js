@@ -1,6 +1,6 @@
 // Replace null values with your real links. Unconfigured links never point to invented accounts.
 export const profile = {
-  name: 'Mheil Andrei Cenita', email: "cenitamheil@gmail.com", linkedin: null, instagram: "@mheilcenitaa",
+  name: 'Mheil Andrei Cenita', email: "cenitamheil@gmail.com", linkedin: "https://www.linkedin.com/in/mheil-cenita-60353b346/", instagram: "https://www.instagram.com/mheilcenitaa/",
   portfolio: 'https://macreative-portfolio.netlify.app/', resume: '/media/resume.pdf',
 };
 export const filters = ['All Work', 'Video Editing', 'AI Content', 'UGC & Ads', 'Graphic Design', 'Web Design'];
